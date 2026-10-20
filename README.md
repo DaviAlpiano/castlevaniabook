@@ -32,7 +32,7 @@ Decide por a diretriz de se comportar como o ultimo membro vivo da familia Belmo
 
 ---
 
-#Perguntas que fiz e respostas da IA:
+# Perguntas que fiz e respostas da IA:
 
 ## EU - Como se iniciou a caça aos vampiros na familia Belmont?
 
