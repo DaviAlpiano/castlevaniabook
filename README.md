@@ -26,10 +26,15 @@ https://castlevania.fandom.com/wiki/Belmont_Clan
 
 Algumas fontes eu pesquisei, como os vídeos e a castlevani fandom, enquanto outras foram mostrada pelo deep search, após análise decidir usar também.
 
+---
+
 Decide por a diretriz de se comportar como o ultimo membro vivo da familia Belmont
 
+---
+
 #Perguntas que fiz e respostas da IA:
-##EU - Como se iniciou a caça aos vampiros na familia Belmont?
+
+## EU - Como se iniciou a caça aos vampiros na familia Belmont?
 
 A caça aos vampiros na família Belmont iniciou-se no ano de **1094**, durante os eventos narrados em *Castlevania: Lament of Innocence*, com o barão **Leon Belmont**[1][2].
 
@@ -49,7 +54,9 @@ Após derrotar Walter Bernhard, revelou-se que toda a tragédia havia sido orque
 
 Mathias tentou convencer Leon a se juntar a ele em seu ódio contra Deus, mas Leon recusou[19][20]. Antes de fugir, Leon fez um juramento solene: a partir daquele momento, a sua linhagem — o **clã Belmont** — usaria o Vampire Killer para caçar Mathias e erradicar todas as criaturas das trevas para sempre[19][21].
 
-##EU - Como o Vampire Killer foi passado de geração em geração?
+---
+
+## EU - Como o Vampire Killer foi passado de geração em geração?
 
 A trajetória do **Vampire Killer** através do tempo é dividida em quatro fases principais: sua criação, a passagem direta no clã Belmont, a transferência para a família Morris e o retorno ao clã original[1].
 
@@ -79,7 +86,9 @@ Porém, por ser uma arma cujo contrato foi firmado com o sangue Belmont puro[6][
 
 No ano de 1999, cumprindo a profecia de Nostradamus, o Vampire Killer voltou às mãos do clã de origem[2]. **Julius Belmont**, considerado a culminação de força da linhagem, tomou o chicote de volta[35][36] e o utilizou na grande guerra para destruir Drácula definitivamente e selar Castlevania dentro de um eclipse solar[37].
 
-##EU - Qual foi o destino de Julius Belmont?
+---
+
+## EU - Qual foi o destino de Julius Belmont?
 
 O destino de **Julius Belmont** está diretamente ligado ao encerramento definitivo do ciclo de ressurreição de Drácula e ao surgimento de uma nova era de protetores:
 
@@ -103,7 +112,9 @@ Um ano depois, Julius uniu forças com Genya Arikado (Alucard) e Yoko Belnades p
 
 Com o ciclo tradicional de Drácula quebrado, Julius assumiu o papel de mestre para a nova geração de caçadores[16]. Na narrativa de *Demons Castle Dracula: Reminiscence of the Divine Abyss*, ele atua como mentor de seu jovem discípulo **Curtis Lang**, garantindo que a humanidade continue preparada para defender o mundo contra as forças do caos[16].
 
-##EU - Como Soma Cruz lidou com a alma de Drácula?
+---
+
+## EU - Como Soma Cruz lidou com a alma de Drácula?
 
 Após a destruição definitiva de Drácula na guerra de 1999, sua alma foi purificada e separada da essência maligna que a corrompia, renascendo anos mais tarde no jovem estudante **Soma Cruz**[1][2]. Devido a essa herança espiritual, Soma nasceu com o **Poder da Dominância** (*Power of Dominance*), a habilidade de absorver, manipular e controlar as almas de criaturas e monstros[3].
 
@@ -123,7 +134,11 @@ Mesmo abalado, Soma conseguiu conter a fúria graças a um talismã mágico dado
 
 Com isso, Soma provou ao mundo e a si mesmo que possuir a alma de Drácula não o tornava inevitavelmente um monstro, pois o destino de alguém é determinado pelas escolhas e intenções do indivíduo, e não apenas pelo seu poder interno[9][17].
 
-##Muitas das informações das respostas veio do vídeo A Timeline Definitiva de Castlevania
+---
 
-#Link do notebook:
+## Muitas das informações das respostas veio do vídeo A Timeline Definitiva de Castlevania
+
+---
+
+# Link do notebook:
 https://notebook.google.com/notebook/22a34a33-b02c-4f1e-90d0-5457d22281e3
